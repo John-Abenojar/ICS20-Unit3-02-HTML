@@ -1,0 +1,23 @@
+table, th, td {
+ border: 2px solid black;
+}
+
+table {
+ width: 100%;
+}
+
+td {
+  color: yellow;
+  background-color:black
+}
+
+p {
+  color:red;
+}
+div {
+ background-color: grey;
+ width: 300px;
+ border: 15px solid black;
+ padding: 50px;
+ margin: 20px;
+}
